@@ -1,2 +1,2 @@
 # tcomposealcoolougaso
-Projeto que Calcula Álcool ou Gasolina utilizando jetpack compose
+Aplicativo Mobile que Calcula a Melhor Opção entre Álcool ou Gasolina utilizando Kotlin com Jetpack Compose
